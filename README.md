@@ -1,4 +1,4 @@
-# The Digital Washi Archive Project - Digital Washi Archive
+# The Digital Washi Archive Project - Digital Washi Paper Archive
 
 [![DOI](https://img.shields.io/badge/DOI-10.7910%2FDVN%2F8ETD59-1a73e8)](https://doi.org/10.7910/DVN/8ETD59)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-4caf50.svg)](https://creativecommons.org/licenses/by/4.0/)
