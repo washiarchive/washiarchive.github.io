@@ -1,11 +1,10 @@
-# Digital Washi Archive
+# The Digital Washi Archive Project - Digital Washi Archive
 
 [![DOI](https://img.shields.io/badge/DOI-10.7910%2FDVN%2F8ETD59-1a73e8)](https://doi.org/10.7910/DVN/8ETD59)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-4caf50.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![GitHub Pages](https://img.shields.io/badge/Hosted-GitHub%20Pages-000000.svg)](https://washiarchive.github.io/)
 
-**Digital Washi Archive** is a companion site to the Harvard Dataverse collection documenting historic Japanese paper (washi).  
-It provides DOI-citable datasets, macro images, and standardized metadata for research, conservation, and design.
+**Digital Washi Archive** is a companion site to the Harvard Dataverse collection documenting historic Japanese paper (washi). The related collection is a open-access/public washi archive & repository. It provides DOI-citable datasets, macro images, and standardized metadata for research, conservation, and design.
 
 - 🌐 **Website:** https://washiarchive.github.io/
 - 📚 **Dataverse collection:** https://dataverse.harvard.edu/dataverse/washi
